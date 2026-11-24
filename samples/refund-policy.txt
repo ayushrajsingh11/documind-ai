@@ -1,0 +1,2 @@
+SYNTHETIC DEMO POLICY
+Refunds above $500 require manager approval before processing. Refund requests must include the original transaction reference. Standard refunds are reviewed within three business days. Duplicate refund requests must be investigated before approval.
